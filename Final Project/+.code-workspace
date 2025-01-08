@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "FMA",
+			"path": "../../../../../../../Documents/GitHub/FMA"
+		},
+		{
+			"path": "../../../../../../../Projekti i Anikut/Projekti i madh i Anikut"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fma"
+	}
+}
